@@ -2,6 +2,6 @@
 
 #### Select Coding Excercises to implement Linear Algebra conccepts leanred in Lectures
 
-- Compressing Images with Discrete Cosine Basis
-- Marchov Chain & Stochastic Matrix
-- Principal Component Analysis & Dimensionality Reduction
+- Compressing Images with Discrete Cosine Basis [notebook](https://github.com/chens28/Computational-Linear-Algebra/blob/main/DCT_Image_Compression.ipynb)
+- Marchov Chain & Stochastic Matrix notebook](https://github.com/chens28/Computational-Linear-Algebra/blob/main/Markov_Chain_Problem.ipynb)
+- Principal Component Analysis & Dimensionality Reduction [notebook](https://github.com/chens28/Computational-Linear-Algebra/blob/main/PCA_Mysterious_Data.ipynb)
